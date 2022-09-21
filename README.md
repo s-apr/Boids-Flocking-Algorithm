@@ -6,3 +6,5 @@ This research project investigated the use of Craig Reynolds’ Boids Flocking a
 This repository contains some of the final Max 8 programming iterations alongside musical productions, each of which aims to provide both listeners and users with a clear translation of the visual properties of flocking to audio characteristics. 
 
 These patches allowed for invesitgation into perception in relation to the separation of audio and visual components. Considering how to best provide patching solutions to reduce the amount of information lost when translating the process.
+
+The research PDF can be found at this link: https://drive.google.com/file/d/1wEg2N6y7vQ-n7JNecbHri5zi3vcXNogV/view?usp=sharing
