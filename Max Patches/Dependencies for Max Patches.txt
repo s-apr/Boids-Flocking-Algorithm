@@ -1,0 +1,11 @@
+Boids: 
+
+https://cycling74.com/forums/boids-for-max
+
+Spatial Mapping Example:
+
+Max Package Manager - ICST Ambisonics
+
+Mutable Instruments:
+
+https://vboehm.net/maxobjects/vb.mi-objects.zip
